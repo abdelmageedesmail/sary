@@ -3,6 +3,6 @@
     <string name="deliverTo">التوصيل ل </string>
     <string name="accountStat">حالة توثيق الحساب</string>
     <string name="reviewing">Reviewing</string>
-    <string name="specialOrder">Do you have special order ?</string>
-    <string name="clickHere">Click here</string>
+    <string name="specialOrder">هل لديك طلب خاص؟</string>
+    <string name="clickHere">إضغط هنا</string>
 </resources>

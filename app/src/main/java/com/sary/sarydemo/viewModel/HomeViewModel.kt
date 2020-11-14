@@ -47,7 +47,6 @@ class HomeViewModel : ViewModel() {
     }
 
     fun getBanners(): MutableLiveData<BannerResponse> {
-        Log.e("language", "" + UtilsClass().getLang())
         val call: Call<BannerResponse> =
             ApiClient.getClient.getBanners(
                 token,
