@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SaryDemo</string>
+    <string name="deliverTo">Deliver to</string>
+    <string name="accountStat">Account verification status</string>
+    <string name="reviewing">Reviewing</string>
+    <string name="specialOrder">Do you have special order ?</string>
+    <string name="clickHere">Click here</string>
+
+    <array name="deliverArray">
+        <item>Work</item>
+        <item>Home</item>
+    </array>
+</resources>
